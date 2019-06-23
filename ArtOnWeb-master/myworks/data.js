@@ -1,0 +1,1 @@
+var myData={designer:{name:'罗曦晨',phone:'13255051103',tag:["一个苹果，唤醒牛顿：一份作品，相遇缘分。"],bg:'#ad4be2'},gallery:[]}
